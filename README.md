@@ -1,8 +1,6 @@
-<h1>CSE 531: Client-Centric Consistency Project</h1>
+<h1>Grpc banking application with Client-Centric Consistency Project</h1>
 
-Ahraz Rizvi
 
-CSE 531: Distributed and Multiprocessor Operating Systems, Spring 2021 (B)
 
 
 
